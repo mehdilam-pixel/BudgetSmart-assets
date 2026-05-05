@@ -1,7 +1,7 @@
 {
   "name": "BudgetSmart",
   "short_name": "BudgetSmart",
-  "start_url": "https://script.google.com/macros/s/AKfycbzrTNM2RHxRgAZglM9V4isK6s0UqnrXAfzwNIa-Z4QNsPavUuJTUXJ6N6y93LmCQA8B/exec",
+  "start_url": "https://script.google.com/macros/s/AKfycbwRzcvAbGlKUoYjAxQ56AS7wrhoA6HrW8u_2t3KzZBLIV8hIj7ZAHLWcGQeGAeUBjRj/exec",
   "display": "standalone",
   "orientation": "portrait",
   "theme_color": "#1a1a2e",
