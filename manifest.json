@@ -1,0 +1,23 @@
+{
+  "name": "BudgetSmart",
+  "short_name": "BudgetSmart",
+  "start_url": "https://script.google.com/macros/s/AKfycbzrTNM2RHxRgAZglM9V4isK6s0UqnrXAfzwNIa-Z4QNsPavUuJTUXJ6N6y93LmCQA8B/exec",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#1a1a2e",
+  "background_color": "#F4F5F7",
+  "icons": [
+    {
+      "src": "BudgetSmart-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "BudgetSmart-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
