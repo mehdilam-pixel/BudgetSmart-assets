@@ -1,20 +1,20 @@
 {
-  "name": "BudgetSmart",
-  "short_name": "BudgetSmart",
-  "start_url": "https://script.google.com/macros/s/AKfycbwRzcvAbGlKUoYjAxQ56AS7wrhoA6HrW8u_2t3KzZBLIV8hIj7ZAHLWcGQeGAeUBjRj/exec",
+  "name": "Budget PDP",
+  "short_name": "Budget",
+  "start_url": "https://script.google.com/macros/s/AKfycbyrdgubh3Dh4DTDLS1X2lmNwpcQoo-EsjkHU1jXpDh__RTgsgD4liMCqwNyXcFhuLBusA/exec",
   "display": "standalone",
   "orientation": "portrait",
   "theme_color": "#1a1a2e",
   "background_color": "#F4F5F7",
   "icons": [
     {
-      "src": "BudgetSmart-192x192.png",
+      "src": "Budget-PDP-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "BudgetSmart-512x512.png",
+      "src": "Budget-PDP-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
