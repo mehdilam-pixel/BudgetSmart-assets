@@ -1,6 +1,6 @@
 {
   "name": "Budget PDP",
-  "short_name": "Budget",
+  "short_name": "BudgetPDP",
   "start_url": "https://script.google.com/macros/s/AKfycbyrdgubh3Dh4DTDLS1X2lmNwpcQoo-EsjkHU1jXpDh__RTgsgD4liMCqwNyXcFhuLBusA/exec",
   "display": "standalone",
   "orientation": "portrait",
